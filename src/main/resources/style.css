@@ -1,0 +1,11 @@
+/* CSS file for controlling the button */
+
+.button {
+    -fx-font-family: "Arial", sans-serif;
+    -fx-font-size: 25px;
+    -fx-background-color: #2980b9;
+}
+
+.button:pressed {
+    -fx-background-color: #00ff00;
+}
